@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/censys-sap/precache-manifest.90d1e7149f05bebd2ea4c1f02462766f.js"
+  "/censys-sap/precache-manifest.d3924847daf571e64d88b6e67157ac94.js"
 );
 
 self.addEventListener('message', (event) => {
