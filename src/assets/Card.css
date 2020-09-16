@@ -1,0 +1,25 @@
+.card_wrap {
+  background-blend-mode: screen;
+  background: wheat;
+  justify-content: center;
+  display: flex;
+  border-radius: 1px 0 0 1px;
+  border-style: inset;
+  border-color: wheat;
+  height: 570px;
+}
+
+.card {
+  background-color: wheat;
+  justify-content: center;
+  display: contents;
+  flex-wrap: wrap;
+  border-radius: 5px 0 0 5px;
+  border-style: inset;
+}
+
+.card_media {
+  height: 200px;
+  width: 315px;
+  justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+.body {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: gainsboro;
+  padding-bottom: 550px;
+  border-radius: 5px 0 0 5px;
+}

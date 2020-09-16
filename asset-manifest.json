@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/censys-sap/static/css/main.df0d1619.chunk.css",
+    "main.js": "/censys-sap/static/js/main.629ba7b1.chunk.js",
+    "main.js.map": "/censys-sap/static/js/main.629ba7b1.chunk.js.map",
+    "runtime-main.js": "/censys-sap/static/js/runtime-main.150de904.js",
+    "runtime-main.js.map": "/censys-sap/static/js/runtime-main.150de904.js.map",
+    "static/js/2.e3b0702d.chunk.js": "/censys-sap/static/js/2.e3b0702d.chunk.js",
+    "static/js/2.e3b0702d.chunk.js.map": "/censys-sap/static/js/2.e3b0702d.chunk.js.map",
+    "index.html": "/censys-sap/index.html",
+    "precache-manifest.90d1e7149f05bebd2ea4c1f02462766f.js": "/censys-sap/precache-manifest.90d1e7149f05bebd2ea4c1f02462766f.js",
+    "service-worker.js": "/censys-sap/service-worker.js",
+    "static/css/main.df0d1619.chunk.css.map": "/censys-sap/static/css/main.df0d1619.chunk.css.map",
+    "static/js/2.e3b0702d.chunk.js.LICENSE.txt": "/censys-sap/static/js/2.e3b0702d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.150de904.js",
+    "static/js/2.e3b0702d.chunk.js",
+    "static/css/main.df0d1619.chunk.css",
+    "static/js/main.629ba7b1.chunk.js"
+  ]
+}

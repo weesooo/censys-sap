@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.header {
+  padding: 1px;
+  align-items: center;
+  justify-content: space-between;
+  overflow-x: scroll;
+  height: auto;
+  background-color: gray;
+  border-radius: 5px 0 0 5px;
+  border-style: inset;
+  border-color: wheat;
+}
+
+.header_icon {
+  display: flex;
+}
+
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.wrap-search {
+  width: 60%;
+  position: absolute;
+  top: 3.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.searchTerm:focus {
+  color: rgb(231, 19, 19);
+}
+
+.header_img {
+  width: 10%;
+  height: auto;
+  cursor: pointer;
+}
+
+/* Hide the scroll bar */
+
+.header::-webkit-scrollbar {
+  display: none;
+}
+
+.fa-search {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: medium;
+}
+
+.fa-search:hover {
+  font-size: x-large;
+}
