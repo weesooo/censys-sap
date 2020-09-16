@@ -6,26 +6,6 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 
 function MediaCard() {
-  var axios = require("axios");
-
-  var config = {
-    method: "get",
-    url: "https://censys.io/api/v1/view/websites/facebook.com",
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-      Username: "a0ea8deb-d536-4b02-82e5-61b5621d1284",
-      Password: "R9rS2mbKCHqJP5FbyoToz2vyY1oaYPW9",
-      "Access-Control-Allow-Origin": "*",
-    },
-  };
-
-  axios(config)
-    .then(function (response) {
-      console.log(JSON.stringify(response.data));
-    })
-    .catch(function (error) {
-      console.log(error);
-    });
 
   const [bigNames, setbigNames] = useState([
     {
